@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Procurement units"
+  },
+  "description": {
+    "en": "Datails from the specific units who are involved in the procurment process and are part of the buyer or the procurement entity."
+  },
+  "documentationUrl": {
+    "en": ""
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}
