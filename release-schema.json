@@ -6,6 +6,8 @@
           "title": "requestingUnit",
           "description": "The specific units inside the buyer who require the acquisition or lease of goods, or the provision of services, or those that will benefit from the procurement.",
           "type": "array",
+          "codelist": "+partyRole.csv",
+          "openCodelist": true,
           "items": {
             "$ref": "#/definitions/OrganizationReference"
           },
@@ -15,6 +17,8 @@
           "title": "responsibleUnit",
           "description": "The specific units inside the buyer who are responsible for the supervision of the contracts implementation. ",
           "type": "array",
+          "codelist": "+partyRole.csv",
+          "openCodelist": true,
           "items": {
             "$ref": "#/definitions/OrganizationReference"
           },
@@ -24,6 +28,8 @@
           "title": "contractingUnit",
           "description": "The specific units inside the buyer or the procuring entity who are responsible for carrying out the contracting process. They are gennerally involved in the tender, award and contract stages.",
           "type": "array",
+          "codelist": "+partyRole.csv",
+          "openCodelist": true,
           "items": {
             "$ref": "#/definitions/OrganizationReference"
           },
