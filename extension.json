@@ -6,7 +6,7 @@
     "en": "Datails from the specific units who are involved in the procurment process and are part of the buyer or the procurement entity."
   },
   "documentationUrl": {
-    "en": ""
+    "en": "https://github.com/contratacionesabiertas/ocds_procurementUnits_extension"
   },
   "compatibility": [
     "1.1"
