@@ -8,6 +8,9 @@
   "documentationUrl": {
     "en": "https://github.com/contratacionesabiertas/ocds_procurementUnits_extension"
   },
+  "codelists": [
+    "+partyRole.csv"
+  ],
   "compatibility": [
     "1.1"
   ],
